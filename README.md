@@ -92,7 +92,7 @@ Whether you're a developer, designer, writer, or psychologist, your skills can h
 Team members：
 Bluelake
 朱迪
-Silvana
+岑小丰
 徐小虾
 毛青青
 叮当
@@ -100,4 +100,5 @@ Silvana
 庞瑞哲
 UI
 余轲涵
+Silvana
 
